@@ -1,0 +1,640 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-08 23:26+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Dicts.py:19
+msgid ""
+"ADD MARKER:\n"
+"Attaaches a parameter marker to the current frame. Markers copy all "
+"parameter settings and apply them to all future frames, or until another "
+"marker is encountered."
+msgstr ""
+
+#: Dicts.py:24
+msgid ""
+"ENABLE REAL-TIME AUDIO:\n"
+"Adds audio from the input video during preview playback. If you are unable "
+"to maintain the input video frame rate, the audio will lag."
+msgstr ""
+"加载实时音频：\n"
+"在预览播放时从输入视频添加音频。如果无法保持输入视频的帧率，音频将延迟。"
+
+#: Dicts.py:27
+msgid "Enable Audio"
+msgstr "加载音频"
+
+#: Dicts.py:34
+msgid ""
+"REMOVE FACES:\n"
+"Remove all currently found faces."
+msgstr ""
+"去除脸：\n"
+"删除所有当前找到的脸。"
+
+#: Dicts.py:36
+msgid "Clear Faces"
+msgstr "清除脸"
+
+#: Dicts.py:40
+msgid ""
+"LOAD DEFAULT PARAMETERS:\n"
+"Load the Rope default parameters for this column."
+msgstr ""
+"加载默认参数：\n"
+"加载无极变脸默认参数到此列。"
+
+#: Dicts.py:43
+msgid "Load Defaults"
+msgstr "加载缺省参数"
+
+#: Dicts.py:48
+msgid ""
+"DELETE EMBEDDING:\n"
+"Delete the currently selected embedding"
+msgstr ""
+"删除嵌入向量：\n"
+"删除当前选定的嵌入向量"
+
+#: Dicts.py:50
+msgid "Delete Emb"
+msgstr "删除嵌入向量"
+
+#: Dicts.py:56
+msgid ""
+"REMOVE MARKER:\n"
+"Removes the parameter marker from the current frame."
+msgstr ""
+"删除标记：\n"
+"从当前帧中删除参数标记。"
+
+#: Dicts.py:64
+msgid ""
+"FIND FACES:\n"
+"Finds all new faces in the current frame."
+msgstr ""
+"找到人脸：\n"
+"在当前帧中找到所有新的人脸。"
+
+#: Dicts.py:66
+msgid "Find Faces"
+msgstr "找到人脸"
+
+#: Dicts.py:72
+msgid ""
+"LOAD SAVED PARAMETERS:\n"
+"Loads all parameters from this column if they have been previously saved. "
+msgstr ""
+"加载保存的参数：\n"
+"如果参数先前保存，则从该列加载所有参数。"
+
+#: Dicts.py:75
+msgid "Load Params"
+msgstr "加载参数"
+
+#: Dicts.py:82
+msgid ""
+"SELECT SOURCE FACES FOLDER:\n"
+"Selects and loads Source Faces from Folder. Make sure the folder only "
+"contains <good> images."
+msgstr ""
+"选择源人脸文件夹：\n"
+"从文件夹选择并加载源人脸。确保文件夹只包含<好的>图片。"
+
+#: Dicts.py:85
+msgid "Select Faces Folder"
+msgstr "选择人脸文件夹"
+
+#: Dicts.py:91
+msgid ""
+"SELECT INPUT VIDEOS/IMAGES FOLDER:\n"
+"Select and load media from folder."
+msgstr ""
+"选择输入的视频/图片文件夹：\n"
+"从文件夹选择并加载视频/图片。"
+
+#: Dicts.py:94
+msgid "Select Videos Folder"
+msgstr "选择视频文件夹"
+
+#: Dicts.py:97
+msgid ""
+"SHOW MASKS:\n"
+"Displays the mask for a face side-by-side with the face. Useful for "
+"understanding the masking behaviors and results."
+msgstr ""
+"显示遮罩：\n"
+"显示人脸的遮罩，并将其与脸部并排显示。这对于理解和掌握遮罩行为和结果非常有用。"
+
+#: Dicts.py:100
+msgid "Show Mask"
+msgstr "显示遮罩"
+
+#: Dicts.py:105
+msgid ""
+"NEXT MARKER:\n"
+"Move to the next marker."
+msgstr ""
+"下一个标记：\n"
+"移动到下一个标记。"
+
+#: Dicts.py:112
+msgid ""
+"SELECT SAVE FOLDER:\n"
+"Select folder for saved videos and images."
+msgstr ""
+"选择存储的文件夹：\n"
+"选择保存输出视频和图片的文件夹。"
+
+#: Dicts.py:115
+msgid "Select Output Folder"
+msgstr "选择输出文件夹"
+
+#: Dicts.py:121
+msgid ""
+"PLAY:\n"
+"Plays the video. Press again to stop playing"
+msgstr ""
+"播放：\n"
+"播放视频。再次按键停止播放"
+
+#: Dicts.py:127
+msgid ""
+"PREVIOUS MARKER:\n"
+"Move to the previous marker."
+msgstr ""
+"之前的标记：\n"
+"移动到上一个标记。"
+
+#: Dicts.py:134
+msgid ""
+"RECORD:\n"
+"Arms the PLAY button for recording. Press RECORD, then PLAY to record. Press "
+"PLAY again to stop recording."
+msgstr ""
+"录制：\n"
+"为录制按钮臂。按录制，然后按播放进行录制。按播放再次停止录制。"
+
+#: Dicts.py:140
+msgid ""
+"SAVE PARAMETERS:\n"
+"Saves all parameters in this column."
+msgstr ""
+"保存参数：\n"
+"保存此列中的所有参数。"
+
+#: Dicts.py:143
+msgid "Save Params"
+msgstr "保存参数"
+
+#: Dicts.py:148
+msgid ""
+"STARTS ROPE:\n"
+"Starts up the Rope application."
+msgstr ""
+"启动无极变脸：\n"
+"启动无极变脸应用程序。"
+
+#: Dicts.py:150
+msgid "Start Rope"
+msgstr "开始变脸"
+
+#: Dicts.py:152
+msgid ""
+"SWAP:\n"
+"Swap assigned Source Faces and Target Faces."
+msgstr ""
+"变脸：\n"
+"交换分配的源人脸和目标人脸。"
+
+#: Dicts.py:154
+msgid "Swap Faces"
+msgstr "换脸"
+
+#: Dicts.py:160
+msgid ""
+"TIMELINE START:\n"
+"Move the timeline handle to the first frame."
+msgstr ""
+"时间线开始：\n"
+"将时间线句柄移动到第一帧。"
+
+#: Dicts.py:168
+msgid ""
+"TIMELEFT NUDGE LEFT:\n"
+"Move the timeline handle to the left 30 frames."
+msgstr ""
+"轻推时间线向左：\n"
+"将时间线句柄向左移动30帧。"
+
+#: Dicts.py:176
+msgid ""
+"TIMELEFT NUDGE RIGHT:\n"
+"Move the timeline handle to the RIGHT 30 frames."
+msgstr ""
+"轻推时间线向右：\n"
+"将时间线句柄向右移动30帧。"
+
+#: Dicts.py:181
+msgid ""
+"RGB ADJUSTMENT:\n"
+"Fine-tune the RGB color values of the swap."
+msgstr ""
+"调整三原色：\n"
+"微调变脸的颜色值。"
+
+#: Dicts.py:185
+msgid ""
+"DIFFERENCER:\n"
+"Allow some of the original face to show in the swapped result when the "
+"difference between the two images is small. Can help bring back some texture "
+"to the swapped face"
+msgstr ""
+"差异化：\n"
+"当两个图像之间的差异较小时，允许一些原始人脸在变脸结果中显示。可以有助于将一些纹理带回变脸脸部"
+
+#: Dicts.py:189
+msgid ""
+"KPS and SCALE ADJUSTMENT:\n"
+"This is an experimental feature to perform direct adjustments to the face "
+"landmarks found by the detector. There is also an option to adjust the scale "
+"of the swapped face."
+msgstr ""
+"KPS和缩放调整：\n"
+"这是一个实验性功能，用于对检测器找到的面部标志进行直接调整。还有一个调整变脸面部的缩放选项。"
+
+#: Dicts.py:193
+msgid ""
+"BACKGROUND MASK:\n"
+"Allow the unprocessed background from the orginal image to show in the final "
+"swap."
+msgstr ""
+"背景遮罩：\n"
+"允许原始图像的未处理背景显示在最终变脸中。"
+
+#: Dicts.py:197
+msgid ""
+"MOUTH MASK:\n"
+"Allow the mouth from the original face to show on the swapped face."
+msgstr ""
+"嘴巴遮罩：\n"
+"允许原始人脸的嘴巴显示在变脸脸部。"
+
+#: Dicts.py:201
+msgid ""
+"OCCLUSION MASK:\n"
+"Allow objects occluding the face to show up in the swapped image."
+msgstr ""
+"遮挡遮罩：\n"
+"允许遮挡脸部的人脸对象显示在变脸图像中。"
+
+#: Dicts.py:205
+msgid ""
+"ORIENTATION:\n"
+"Rotate the face detector to better detect faces at different angles"
+msgstr ""
+"方向：\n"
+"旋转人脸检测器，以更好地检测不同角度的人脸"
+
+#: Dicts.py:209
+msgid ""
+"FACE RESTORER:\n"
+"Restore the swapped image by upscaling."
+msgstr ""
+"人脸恢复器：\n"
+"通过上采样恢复变脸图像。"
+
+#: Dicts.py:213
+msgid ""
+"SWAPPER STRENGTH:\n"
+"Apply additional swapping iterations to increase the strength of the result, "
+"which may increase likeness"
+msgstr ""
+"换脸增强：\n"
+"应用额外的换脸迭代次数以增加结果的强度，这可能会提高相似性"
+
+#: Dicts.py:217
+msgid ""
+"TEXT MASKING:\n"
+"Use descriptions to identify objects that will be present in the final "
+"swapped image."
+msgstr ""
+"文本遮盖：\n"
+"通过描述来识别最终变脸图像中可能出现的人脸对象。"
+
+#: Dicts.py:224
+msgid ""
+"BLEND:\n"
+"Combined masks blending distance. Is not applied to the border masks."
+msgstr ""
+"混合：\n"
+"结合混合距离的遮罩。不应用于边界遮罩。"
+
+#: Dicts.py:230
+msgid ""
+"BORDER MASK BLEND:\n"
+"Border mask blending distance."
+msgstr ""
+"边缘遮罩混合：\n"
+"混合距离后的边缘遮罩。"
+
+#: Dicts.py:236
+msgid ""
+"BOTTOM BORDER DISTANCE:\n"
+"A rectangle with adjustable top, bottom, and sides that blends the swapped "
+"face rseult back into the original image."
+msgstr ""
+"底部边缘距离：\n"
+"一个可调的顶部、底部和边界的矩形，将变脸结果混合回原始图像。"
+
+#: Dicts.py:243
+msgid ""
+"SIDES BORDER DISTANCE:\n"
+"A rectangle with adjustable top, bottom, and sides that blends the swapped "
+"face result back into the original image."
+msgstr ""
+"边界边缘距离：\n"
+"一个可调的顶部、底部和边界的矩形，将变脸结果混合回原始图像。"
+
+#: Dicts.py:250
+msgid ""
+"TOP BORDER DISTANCE:\n"
+"A rectangle with adjustable top, bottom, and sides that blends the swapped "
+"face result back into the original image."
+msgstr ""
+"顶部边缘距离：\n"
+"一个可调的顶部、底部和边界的矩形，将变脸结果混合回原始图像。"
+
+#: Dicts.py:256
+msgid "RGB BLUE ADJUSTMENT"
+msgstr "三原色蓝色调整"
+
+#: Dicts.py:261
+msgid "RGB GREEN ADJUSTMENT"
+msgstr "三原色绿色调整"
+
+#: Dicts.py:266
+msgid "RGB RED ADJUSTMENT"
+msgstr "三原色红色调整"
+
+#: Dicts.py:272
+msgid ""
+"DETECTION SCORE LIMIT:\n"
+"Determines the minimum score required for a face to be detected. Higher "
+"values require higher quality faces. E.g., if faces are flickering when at "
+"extreme angles, raising this will limit swapping attempts."
+msgstr ""
+"检测分数阈值：\n"
+"确定检测到人脸所需的最小分数。更高的值需要更高的质量人脸。例如，如果人脸在极端角度时闪烁，提高这个值将限制换脸尝试。"
+
+#: Dicts.py:279
+msgid ""
+"DIFFERENCING AMOUNT:\n"
+"Higher values relaxes the similarity constraint."
+msgstr ""
+"差异化程度：\n"
+"更高的值会放松相似性约束。"
+
+#: Dicts.py:286
+msgid ""
+"BACKGROUND MASK AMOUNT:\n"
+"Negative/Positive values shrink and grow the mask."
+msgstr ""
+"背景遮罩程度：\n"
+"负值/正值缩小和扩大遮罩。"
+
+#: Dicts.py:292
+msgid "FACE SCALE AMOUNT"
+msgstr "人脸缩放程度"
+
+#: Dicts.py:298
+msgid ""
+"KPS SCALE AMOUNT:\n"
+"Grows and shrinks the detection point distances."
+msgstr ""
+"KPS缩放程度：\n"
+"扩大和缩小检测点距离。"
+
+#: Dicts.py:305
+msgid ""
+"KPS X-DIRECTION AMOUNT:\n"
+"Shifts the detection points left and right"
+msgstr ""
+"KPS X方向调整：\n"
+"将检测点向左和向右移动"
+
+#: Dicts.py:312
+msgid ""
+"KPS Y-DIRECTION AMOUNT:\n"
+"Shifts the detection points lup and down"
+msgstr ""
+"KPS Y方向调整：\n"
+"将检测点向上和向下移动"
+
+#: Dicts.py:319
+msgid ""
+"MOUTH MASK AMOUNT:\n"
+"Adjust the size of the mask. Negative values only mask the inside of the "
+"mouth, including the tongue. Positive values also include lips"
+msgstr ""
+"嘴巴遮罩调整：\n"
+"调整遮罩的大小。负值仅遮罩嘴巴的内部，包括舌头。正值还包括嘴唇"
+
+#: Dicts.py:326
+msgid ""
+"OCCLUDER AMOUNT:\n"
+"Grows or shrinks the occluded region"
+msgstr ""
+"遮挡遮罩调整：\n"
+"扩大或缩小遮挡区域"
+
+#: Dicts.py:333
+msgid ""
+"ORIENTATION ANGLE:\n"
+"Set this to the angle of the input face angle to help with laying down/"
+"upside down/etc. Angles are read clockwise."
+msgstr ""
+"方向角度：\n"
+"将此设置为输入人脸角度的角度，以帮助平放/上下颠倒等。角度按顺时针方向读取。"
+
+#: Dicts.py:340
+msgid ""
+"RESTORER AMOUNT:\n"
+"Blends the Restored results back into the original swap."
+msgstr ""
+"恢复器调整：\n"
+"将恢复结果混合回原始换脸。"
+
+#: Dicts.py:347
+msgid ""
+"STRENGTH AMOUNT:\n"
+"Increase up to 5x additional swaps (500%). 200% is generally a good result. "
+"Set to 0 to turn off swapping but allow the rest of the pipeline to apply to "
+"the original image."
+msgstr ""
+"增强调整：\n"
+"增加最多5x额外的换脸（500%）。200%通常是一个好的结果。设置为0以关闭换脸，但允许管道其余部分应用于原始图像。"
+
+#: Dicts.py:354
+msgid ""
+"EXECUTION THREADS:\n"
+"Set number of execution threads while playing and recording. Depends "
+"strongly on GPU VRAM. 5 threads for 24GB."
+msgstr ""
+"执行线程数：\n"
+"设置播放和录制时的执行线程数。强烈依赖于GPU VRAM。24GB的5个线程。"
+
+#: Dicts.py:361
+msgid ""
+"THRESHHOLD AMOUNT:\n"
+"Lower to reduce faces hopping around when swapping multiple people. Set to "
+"mask to have the input face apply to any/all faces in the frame."
+msgstr ""
+"阈值调整：\n"
+"降低以减少换脸时多人脸跳动。设置为遮罩以使输入人脸应用于帧中的任何/所有人脸。"
+
+#: Dicts.py:368
+msgid ""
+"VIDEO QUALITY:\n"
+"The encoding quality of the recorded video. 0 is best, 50 is worst, 18 is "
+"mostly lossless. File size increases with a lower quality number."
+msgstr ""
+"视频品质：\n"
+"录制的视频编码质量。0是最好，50是最差，18是基本上无损。文件大小随着质量较低的数字而增加。"
+
+#: Dicts.py:375
+msgid ""
+"TEXT MASKING THRESHHOLD:\n"
+"Increase to strengthen the effect."
+msgstr ""
+"文本遮罩阈值：\n"
+"增大以增强效果。"
+
+#: Dicts.py:381
+msgid ""
+"FACE DETECTION MODEL:\n"
+"Select the face detection model. Mostly only subtle differences, but can "
+"significant differences when the face is at extreme angles or covered."
+msgstr ""
+"人脸检测模型：\n"
+"选择人脸检测模型。在大多数情况下，只有细微的差异，但在人脸处于极端角度或被遮挡时可能会产生显著差异。"
+
+#: Dicts.py:386
+msgid "Video"
+msgstr "视频"
+
+#: Dicts.py:387
+msgid "Image"
+msgstr "图片"
+
+#: Dicts.py:389
+msgid ""
+"VIDEO RECORDING LIBRARY:\n"
+"Select the recording library used for video recording. FFMPEG uses the Video "
+"Quality slider to adjust the size and quality of the final video. OPENCV has "
+"no options but is faster and produces good results."
+msgstr ""
+"视频录制库：\n"
+"选择用于视频录制的录制库。FFMPEG使用视频质量滑块来调整最终视频的大小和质量。OPENCV没有选项，但速度更快，并产生良好的结果。"
+
+#: Dicts.py:394
+msgid ""
+"ALIGNMENT:\n"
+"Select how the face is aligned for the Restorer. Original preserves facial "
+"features and expressions, but can show some artifacts. Reference softens "
+"features. Blend is closer to Reference but is much faster."
+msgstr ""
+"对齐：\n"
+"选择如何对齐人脸以进行恢复。原始保留面部特征和表情，但可能会显示一些伪影。参考软化特征。混合更接近参考，但速度更快。"
+
+#: Dicts.py:399
+msgid ""
+"RESTORER TYPE:\n"
+"Select the Restorer type.\n"
+"Speed: GPEN256>GFPGAN>CF>GPEN512"
+msgstr ""
+"恢复器种类：\n"
+"选择恢复器种类。\n"
+"速度：GPEN256>GFPGAN>CF>GPEN512"
+
+#: Dicts.py:406
+msgid ""
+"TEXT MASKING ENTRY:\n"
+"To use, type a word(s) in the box separated by commas and press <enter>."
+msgstr ""
+"文本遮罩入口：\n"
+"要使用，请在框中输入一个单词（用逗号分隔），然后按回车键。"
+
+#: Dicts.py:421
+msgid ""
+"CLIP - Text based occluder. Occluded objects are visible in the final image "
+"(occluded from the mask). [LB: on/off, MW: strength]"
+msgstr ""
+"裁剪 - 基于文本的遮挡物。被遮挡的对象在最终图像中可见（从遮罩中可见）。[LB：打开/关闭，MW：强度]"
+
+#: Dicts.py:454
+msgid "IMAGE/VIDEO - Toggle between Image and Video folder view."
+msgstr "图片/视频 - 在图片和视频文件夹视图之间切换。"
+
+#: Dicts.py:456
+msgid "STOP MARKER - Sets a frame that will stop the video playing/recording."
+msgstr "停止标记 - 设置一个帧，将停止视频播放/录制。"
+
+#: Dicts.py:459
+msgid ""
+"AUTO SWAP - Automatically swaps the first person in an image to the selcted "
+"source faces [LB: Turn on/off]"
+msgstr "自动替换 - 将自动将图像中的第一人称替换为所选源人脸[LB：打开/关闭]"
+
+#: Dicts.py:461
+msgid "SAVE IMAGE - Save image to output folder"
+msgstr "保存图片 - 保存图片到输出文件夹"
+
+#: Dicts.py:462
+msgid "CLEAR VRAM - Clears all models from VRAM [LB: Clear]"
+msgstr "清理虚拟内存 - 清除所有在虚拟内存中的模型[LB：清理]"
+
+#: Dicts.py:464
+msgid ""
+"PERFORMANCE DATA - Displays timing data in the console for critical Rope "
+"functions. [LB: on/off]"
+msgstr ""
+"展现数据 - 在控制台显示关键Rope函数的计时数据。[LB：打开/关闭]"
+
+#: Dicts.py:467
+msgid ""
+"REFERENCE DELTA - Modify the reference points. Turn on mask preview to see "
+"adjustments. [LB: on/off, RB: translate x/y, and scale, MW: amount]"
+msgstr ""
+"参考差 - 修改参考点。打开遮罩预览以查看调整。[LB：打开/关闭，RB：转换x/y和缩放，MW：数量]"
+
+#: Dicts.py:470
+msgid ""
+"THRESHOLD - Threshold for determining if Target Faces match faces in a "
+"frame. Lower is stricter. [LB: use amount/match all, MW: value]"
+msgstr ""
+"阈值 - 确定目标人脸是否与帧中的人脸匹配的阈值。较低的值更严格。[LB：使用量/匹配所有，MW：值]"
+
+#: Dicts.py:473
+msgid ""
+"SCALE - Adjust the scale of the face. Use with Background parser to blend "
+"into the image. [LB: on/off, MW: amount]"
+msgstr ""
+"缩放 - 调整人脸的缩放。与背景解析器一起使用以融合到图像中。[LB：打开/关闭，MW：数量]"
+
+#: Dicts.py:475
+msgid "PLAY - Plays the video. Press again to stop playing"
+msgstr "播放 - 播放视频。再次按以停止播放"
